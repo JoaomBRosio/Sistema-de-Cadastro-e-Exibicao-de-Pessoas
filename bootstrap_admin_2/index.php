@@ -63,6 +63,7 @@
                 </div>
                 <div class="col-md-9">
                 <?php
+                //if de verificação de dados na realização do post
                   if(isset($_POST['cadastrar_membros'])){
                     $nome = $_POST['nome_membro'];
                     $descricao = $_POST['descricao'];
