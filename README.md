@@ -2,7 +2,7 @@ Este projeto consta com um sistema de cadastro e exibição em lista de pessoas 
 
 Instruções para rodar o sistema:
 1- Ative o XAMPP (Apache e MySql); 
-2- Abra o phpmyadmin e crie um banco de dados chamado "hospital" (sem aspas); 
+2- Abra o phpmyadmin e crie um banco de dados chamado "bootstrap_projeto" (sem aspas); 
 3- Dentro deste banco importe o arquivo "bootstrap_projeto.sql" (sem aspas); 
 4- Verifique se foi importado sem erros; 
 5- Coloque a pasta do projeto dentro da pasta "htdocs" (sem aspas) do seu XAMPP (C:\xampp\htdocs); 
